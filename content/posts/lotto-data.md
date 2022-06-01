@@ -10,7 +10,7 @@ linkToMarkdown: true
 toc:
   auto: false
 categories: ["Code"]
-tags: ["data science", "web scraping", "microsoft excel", "python", "selenium"]
+tags: ["data_science", "web_scraping", "microsoft_excel", "python", "selenium"]
 ---
 
 <!--more-->

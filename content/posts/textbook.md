@@ -9,7 +9,7 @@ lightgallery: true
 toc:
   auto: false
 categories: ["Learning"]
-tags: ["learning how to learn", "textbook", "workflow", "note-taking", "spaced repetition"]
+tags: ["learning_how_to_learn", "textbook", "workflow", "note_taking", "spaced_repetition"]
 ---
 
 <!--more-->
