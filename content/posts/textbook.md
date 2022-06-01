@@ -14,8 +14,7 @@ tags: ["learning how to learn", "textbook", "workflow", "note-taking", "spaced r
 
 <!--more-->
 
-> {{< style "text-align:center;" >}} “A journey of a thousand miles begins with a single step.” {{< /style >}}
-> {{< style "text-align:right;" >}} —*Lao Tzu* {{< /style >}}
+> “A journey of a thousand miles begins with a single step.” —*Lao Tzu*
 
 ## Introduction
 
