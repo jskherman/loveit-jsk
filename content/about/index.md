@@ -5,17 +5,22 @@ description: "About Je Sian Keith Herman. This section details what he does & ev
 slug: "about"
 date: 2020-02-02T00:02:02+08:00
 lastmod: 2021-02-02T00:02:02+08:00
+typeit: true
 comment:
   enable: false
 # toc:
 #   auto: false
 ---
 
-Hi there! 👋 <br/> I'm Je Sian Keith Herman (*you can also call me Jesh*).
+{{< typeit group=intro >}} Hi there! Welcome to my weblog. 👋 <br><br>{{< /typeit >}}
 
-I am currently a 3rd year student at [Bicol University][BU] studying [Chemical Engineering][ChE]. I am also living a double life as an impostor thanks to the syndrome of the same name. I like coding and writing on the side[^1] when I have free time. My ~~brain vomit~~ [blog](/blog) is one source where you can find most of my up-to-date written content.
+{{< typeit group=intro >}}
+I'm [Je Sian Keith Herman](#firstname) *(you can also call me Jesh)*. This is the place to discover more about me if you’re interested. I share here my thoughts, interests, projects, showcases, and experiences. And if you enjoy reading the content, consider sharing them with your friends, family, and acquaintances. Or if you believe I could improve something, feel free to [ping me or give feedback](#contact-me) through any of my contact details.
+{{< /typeit >}}
 
-On an unrelated note, I like iced tea 🍹, iced coffee ☕, and ice cream 🍨 in no particular order. I also like RPGs, especially Pokémon, as well as visual novels[^2].
+I am currently a 3rd year student at [Bicol University][BU] studying [Chemical Engineering][ChE]. I am also living a double life as an impostor thanks to the syndrome of the same name. I like coding and writing on the side[^1] when I have free time. My [blog](/posts) is one source where you can find most of my up-to-date written content.
+
+On an unrelated note, I like iced tea 🍹, iced coffee ☕, and ice cream 🍨 in no particular order.
 
 > If you're looking for what I am up to these days, check out my **[Now page](/now)**.
 
@@ -27,7 +32,7 @@ On an unrelated note, I like iced tea 🍹, iced coffee ☕, and ice cream 🍨 
 {{< music url="https://res.cloudinary.com/jskherman/video/upload/v1641875513/Website/isekai_shokudou-main_ost.mp3" name="Restaurant to Another World (Isekai Shokudou) Main Theme" artist="Miho Tsujibayashi" >}} 
 </details>
 <details>
-<summary>How do you pronounce your first name?</summary>
+<summary id="firstname">How do you pronounce your first name?</summary>
 
 > My first name "Je Sian Keith" is pronounced as /**ʤi ʃan kiːθ**/ (ji shan kith).
 </details>
@@ -40,7 +45,7 @@ On an unrelated note, I like iced tea 🍹, iced coffee ☕, and ice cream 🍨 
 <details>
 <summary>Hotel?</summary>
 
->  Trivago[^3]
+>  Trivago[^2]
 
 </details>
 
@@ -48,7 +53,7 @@ On an unrelated note, I like iced tea 🍹, iced coffee ☕, and ice cream 🍨 
 
 Want to have a chat with me? Feel free to drop a DM. :smile:
  
-These are the platforms[^4] you can find me on:
+These are the platforms[^3] you can find me on:
 
 - Twitter: [@jskherman][twitter]
 - LinkedIn: [linkedin.com/in/jskherman][linkedin]
@@ -56,9 +61,8 @@ These are the platforms[^4] you can find me on:
 <!-- Footnotes -->
 
 [^1]: This blog is an example project.
-[^2]: I got introduced to the genre via [“The World God Only Knows” anime][TWGOK].
-[^3]: lol #NotSponsored
-[^4]: **Note**: I'm more active on Twitter, so you'll definitely want to ping me there.
+[^2]: lol #NotSponsored
+[^3]: NOTE: I'm more active on Twitter, so you'll definitely want to ping me there.
 
 <!-- Reference Links -->
 
