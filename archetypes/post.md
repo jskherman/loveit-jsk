@@ -28,7 +28,7 @@ linkToMarkdown: true
 toc:
   enable: true
   auto: true
-comments:
+comment:
   enable: true
 share:
   enable: true

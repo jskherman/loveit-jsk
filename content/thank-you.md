@@ -7,7 +7,7 @@ date: 2020-02-02T00:02:02+08:00
 lastmod: 2021-02-02T00:02:02+08:00
 hiddenFromHomePage: true
 hiddenFromSearch: true
-comments:
+comment:
   enable: false
 share:
   enable: false
