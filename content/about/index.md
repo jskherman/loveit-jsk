@@ -5,8 +5,8 @@ description: "About Je Sian Keith Herman. This section details what he does & ev
 slug: "about"
 date: 2020-02-02T00:02:02+08:00
 lastmod: 2021-02-02T00:02:02+08:00
-comments: false
-twemoji: true
+comment:
+  enable: false
 # toc:
 #   auto: false
 ---
