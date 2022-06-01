@@ -5,7 +5,7 @@ description: "About Je Sian Keith Herman's present. This section details what he
 slug: "now"
 date: 2020-02-02T00:02:02+08:00
 lastmod: 2021-02-02T00:02:02+08:00
-comments:
+comment:
   enable: false
 toc:
   auto: true
