@@ -398,18 +398,18 @@ googleAnalytics = ""                # google analytics code [UA-XXXXXXXX-X
       # giscus comment config (https://giscus.app/)
       [params.page.comment.giscus]
         # You can refer to the official documentation of giscus to use the following configuration.
-        enable = false #true
-        repo = ""
-        repoId = ""
-        category = "Announcements"
-        categoryId = ""
+        enable = true #true
+        repo = "jskherman/loveit-jsk"
+        repoId = "R_kgDOHbjb-A"
+        category = "Comments"
+        categoryId = "DIC_kwDOHbjb-M4CPaDt"
         # automatically adapt the current theme i18n configuration when empty
         lang = ""
         mapping = "pathname"
         reactionsEnabled = "1"
         emitMetadata = "0"
-        inputPosition = "bottom"
-        lazyLoading = false
+        inputPosition = "top"
+        lazyLoading = true
         lightTheme = "light"
         darkTheme = "dark"
     
