@@ -465,7 +465,7 @@ googleAnalytics = ""                # google analytics code [UA-XXXXXXXX-X
     enable = false
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "UA-179121288-4"
       # whether to anonymize IP
       anonymizeIP = true
     # Fathom Analytics
