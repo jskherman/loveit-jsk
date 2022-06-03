@@ -5,7 +5,7 @@ title: "{{ replace .Name "-" " " | title }}"
 subtitle: 
 description: ""
 # license: CC BY-NC 4.0
-# author: ""
+author: ""
 # authorLink: ""
 date: {{ .Date }}             # format: 2022-01-16T00:00:00+08:00
 lastmod: {{ .Date }}

@@ -2,6 +2,7 @@
 title: "How to Tackle a Textbook: A Workflow"
 subtitle: "A post detailing how one might go about reading a textbook effectively."
 description: "A blog post detailing how one might go about reading a textbook effectively."
+author: "Je Sian Keith Herman"
 date: 2021-07-17T00:00:00+08:00
 lastmod: 2021-07-17T00:00:00+08:00
 featuredImage: "https://res.cloudinary.com/jskherman/image/upload/v1653988709/Website/tasks-glenn-carstens-peters-unsplash_banner_aqk501.jpg"

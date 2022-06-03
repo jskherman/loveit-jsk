@@ -2,6 +2,7 @@
 title: "How to Scrape and Prepare PCSO Lottery Data for Analysis in Excel"
 subtitle: "Scraping the lottery website for historical game data for later analysis."
 description: "In this post we will be scraping the historical lottery data for various games at the Philippine Charity Sweepstakes Office website so we can analyze it for later."
+author: "Je Sian Keith Herman"
 date: 2021-08-05T00:00:00+08:00
 lastmod: 2022-05-09T00:00:00+08:00
 featuredImage: "https://res.cloudinary.com/jskherman/image/upload/v1651554590/Paper/lottery-waldemar-brandt-unsplash_csypd6.jpg"
