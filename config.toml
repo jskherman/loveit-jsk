@@ -169,9 +169,9 @@ googleAnalytics = ""                # google analytics code [UA-XXXXXXXX-X
   # Social config in home page
   [params.social]
     GitHub = "jskherman"
-    Linkedin = "jskherman/"
+    Linkedin = "jskherman"
     Twitter = "jskherman"
-    Instagram = ""
+    Instagram = "jskherman"
     Facebook = ""
     Telegram = ""
     Medium = ""
