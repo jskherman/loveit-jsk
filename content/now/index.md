@@ -12,5 +12,16 @@ toc:
 ---
 
 
-> This is a **"now page"**. If you have your own site, [you could make one](http://nownownow.com/about) too. <br/>
-> For past updates [see this page](/past).
+{{< style "text-align:right; color:#f4663b;" >}} *Ad astra per aspera.* {{< /style >}}
+<br/>
+
+- `2022-07-08` I participated as a semi-finalist in the [SCG Bangkok Business Challenge @ Sasin 2022](https://bbc.sasin.edu/2022) at Bangkok, Thailand. I also presented at the [60-second pitch round (01:35:35)](https://fb.watch/ehcWDuPn5L/) for the Opening Reception.
+
+---
+
+> 1️⃣ This is a **"now page"**. If you have your own site, [you could make one](http://nownownow.com/about) too. <br/>
+> 2️⃣ For past updates [see this page](/past).
+
+
+
+
