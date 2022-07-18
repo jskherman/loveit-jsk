@@ -156,7 +156,7 @@ googleAnalytics = ""                # google analytics code [UA-XXXXXXXX-X
       # title shown in home page (HTML format is supported)
       title = "Je Sian Keith Herman"                        
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Your man, His man, Herman.<br><i>Ad astra per aspera.</i>"
+      subtitle = "<i>Your man, His man, Herman.</i>"
       typeit = true                     # whether to use typeit animation for subtitle
       social = true                     # whether to show social links
       disclaimer = ""                   # disclaimer (HTML format is supported)

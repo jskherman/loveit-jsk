@@ -5,11 +5,14 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap&subset=latin-ext');
 $code-font-family: JetBrains Mono, Fira Code, Source Code Pro, Menlo, Consolas, Monaco, monospace;
 
-$global-link-hover-color: #ef3982;
-$global-link-hover-color-dark: #ef3982;
+$global-link-hover-color: #f4663b;
+$global-link-hover-color-dark: #f4663b;
 
-$single-link-color: #2d96bd;
-$single-link-color-dark: #55bde2;
+$single-link-color: #26a5cc;
+$single-link-color-dark: #49b9db;
 
-$blockquote-color: #6bd6fd;
-$blockquote-color-dark: #59c5ec;
+$single-link-hover-color: #f4663b;
+$single-link-hover-color-dark: #f9734a;
+
+$blockquote-color: #f4663b;
+$blockquote-color-dark: #3BC9F4;
