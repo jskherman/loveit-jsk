@@ -4,7 +4,7 @@ baseURL = ""
 theme = "LoveIt"
 
 # Website title
-title = "jskherman"
+title = "Je Sian Keith Herman"
 
 # Language config
 defaultContentLanguage = "en"       # determines default content language ["en", "zh-cn", "fr", "pl", ...]
@@ -39,13 +39,21 @@ googleAnalytics = ""                # google analytics code [UA-XXXXXXXX-X
     # title will be shown when you hover on this menu link
     title = "My Blog Posts"
   [[menu.main]]
-    weight = 2
-    identifier = "Now"
+    weight = 3
+    identifier = "now"
     pre = "<i class='fas fa-pager fa-fw' aria-hidden='true'></i>&nbsp;"
     post = ""
     name = "Now"
     url = "/now/"
     title = "The Now Page"
+  [[menu.main]]
+    weight = 4
+    identifier = "impossible-list"
+    pre = "<i class='fas fa-flag-checkered fa-fw' aria-hidden='true'></i>&nbsp;"
+    post = ""
+    name = "Impossible List"
+    url = "/impossible-list/"
+    title = "Impossible List"
   [[menu.main]]
     weight = 7
     identifier = "tags"
@@ -63,7 +71,7 @@ googleAnalytics = ""                # google analytics code [UA-XXXXXXXX-X
     url = "/categories/"
     title = ""
   [[menu.main]]
-    weight = 9
+    weight = 2
     identifier = "about"
     pre = "<i class='fas fa-user fa-fw' aria-hidden='true'></i>&nbsp;"
     post = ""
