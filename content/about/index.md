@@ -18,7 +18,7 @@ comment:
 I'm [Je Sian Keith Herman](#firstname) *(you can also call me Jesh)*. This is the place to discover more about me if you’re interested. I share here my thoughts, interests, projects, showcases, and experiences. And if you enjoy reading the content, consider sharing them with your friends, family, and acquaintances. Or if you believe I could improve something, feel free to [ping me or give feedback](#contact-me) through any of my contact details.
 {{< /typeit >}}
 
-I am currently a 3rd year student at [Bicol University][BU] studying [Chemical Engineering][ChE]. I am also living a double life as an impostor thanks to the syndrome of the same name. I like coding and writing on the side[^1] when I have free time. My [blog](/posts) is one source where you can find most of my up-to-date written content.
+I am currently a 3rd year student at [Bicol University][BU] studying [Chemical Engineering][ChE]. I feel like I am also living a double life as an impostor (sus amogus). I like coding and writing on the side[^1] when I have free time. My [blog](/posts) is one source where you can find most of my up-to-date written content.
 
 On an unrelated note, I like iced tea 🍹, iced coffee ☕, and ice cream 🍨 in no particular order.
 
